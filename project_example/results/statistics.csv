@@ -1,0 +1,6 @@
+filename,word_count,unique_words,ttr,line_count,avg_word_length
+canto_1.txt,82,66,0.805,12,4.23
+canto_2.txt,62,50,0.806,9,4.23
+canto_3.txt,59,44,0.746,9,4.31
+canto_33.txt,58,56,0.966,9,4.83
+canto_5.txt,79,66,0.835,12,4.65
