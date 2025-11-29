@@ -60,7 +60,7 @@ git config --global user.name "Ваше Имя"
 git config --global user.email "ваш.email@example.com"
 ```
 
-Используйте как GitHub account name как user.name и тот же email, что и в GitHub аккаунте!
+Используйте ваше GitHub account name как user.name и тот же email, что и в GitHub аккаунте!
 
 ---
 
